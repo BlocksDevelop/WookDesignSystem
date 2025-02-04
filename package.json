@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "keywords": [],
-  "author": "",
+  "author": "hyeonwook",
   "license": "ISC"
 }
